@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "enemy_card",
+    "texture": "d207be90-b3e9-4ec9-b85c-9f16bcb06e65",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      304,
+      281
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      305,
+      281
+    ]
+  }
+}

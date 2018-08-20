@@ -1,0 +1,104 @@
+2018-08-20T10:50:18.115Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-20T10:50:18.119Z - normal: checking language setting...
+2018-08-20T10:50:18.119Z - normal: Language: zh
+2018-08-20T10:50:19.565Z - success: protocol editor-framework registered
+2018-08-20T10:50:19.565Z - success: protocol app registered
+2018-08-20T10:50:19.566Z - success: protocol theme registered
+2018-08-20T10:50:19.566Z - success: protocol packages registered
+2018-08-20T10:50:19.566Z - success: protocol unpack registerred
+2018-08-20T10:50:19.566Z - success: protocol disable-commonjs registerred
+2018-08-20T10:50:19.675Z - normal: connected!
+2018-08-20T10:50:19.683Z - normal: Check project E:\WorkSpace\Parkour_Backup
+2018-08-20T10:50:19.692Z - normal: Initializing project E:\WorkSpace\Parkour_Backup
+2018-08-20T10:50:19.703Z - normal: Initializing Cocos2d
+2018-08-20T10:50:20.341Z - normal: Initializing Asset Database
+2018-08-20T10:50:20.471Z - success: protocol uuid registerred
+2018-08-20T10:50:20.471Z - success: protocol db registerred
+2018-08-20T10:50:20.472Z - success: protocol thumbnail registerred
+2018-08-20T10:50:20.472Z - normal: Loading editor/builtin packages
+2018-08-20T10:50:20.633Z - success: assets loaded
+2018-08-20T10:50:20.635Z - success: builder loaded
+2018-08-20T10:50:20.636Z - success: cocos-analytics loaded
+2018-08-20T10:50:20.638Z - success: console loaded
+2018-08-20T10:50:20.672Z - success: fb-instant-games loaded
+2018-08-20T10:50:20.675Z - success: hierarchy loaded
+2018-08-20T10:50:20.677Z - success: inspector loaded
+2018-08-20T10:50:20.679Z - success: keystore loaded
+2018-08-20T10:50:20.682Z - success: node-library loaded
+2018-08-20T10:50:20.683Z - success: package-asset loaded
+2018-08-20T10:50:20.684Z - success: preferences loaded
+2018-08-20T10:50:20.685Z - success: project-exporter loaded
+2018-08-20T10:50:20.698Z - success: project-importer loaded
+2018-08-20T10:50:20.699Z - success: project-settings loaded
+2018-08-20T10:50:20.701Z - success: ui-kit loaded
+2018-08-20T10:50:20.704Z - success: scene loaded
+2018-08-20T10:50:20.705Z - success: sprite-editor loaded
+2018-08-20T10:50:20.707Z - success: store loaded
+2018-08-20T10:50:20.709Z - success: timeline loaded
+2018-08-20T10:50:20.710Z - normal: Loading builtin packages
+2018-08-20T10:50:20.712Z - success: asset-db-debugger loaded
+2018-08-20T10:50:20.713Z - success: code-editor loaded
+2018-08-20T10:50:20.714Z - success: color-picker loaded
+2018-08-20T10:50:20.714Z - success: jsb-adapter loaded
+2018-08-20T10:50:20.716Z - success: package-manager loaded
+2018-08-20T10:50:20.717Z - success: qqplay-adapter loaded
+2018-08-20T10:50:20.721Z - success: sdkbox loaded
+2018-08-20T10:50:20.723Z - success: tester loaded
+2018-08-20T10:50:20.724Z - success: ui-grid loaded
+2018-08-20T10:50:20.726Z - success: ui-kit-preview-extra loaded
+2018-08-20T10:50:20.727Z - success: ui-kit-preview loaded
+2018-08-20T10:50:20.728Z - success: ui-tree loaded
+2018-08-20T10:50:20.728Z - success: weapp-adapter loaded
+2018-08-20T10:50:21.689Z - normal: Loading packages
+2018-08-20T10:50:21.693Z - normal: Watching packages
+2018-08-20T10:50:22.024Z - normal: Run Application
+2018-08-20T10:50:26.131Z - success: preview server running at http://localhost:7456
+2018-08-20T11:06:21.174Z - info: 只有预制节点 "Enemy1" 及其子节点会被保存。
+2018-08-20T11:06:21.544Z - info: 只有预制节点 "Enemy1" 及其子节点会被保存。
+2018-08-20T11:06:21.891Z - info: 只有预制节点 "Enemy1" 及其子节点会被保存。
+2018-08-20T11:07:08.928Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:5186
+2018-08-20T11:07:08.928Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:5188
+2018-08-20T11:07:08.929Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:5189
+2018-08-20T11:08:57.819Z - info: 只有预制节点 "Enemy1" 及其子节点会被保存。
+2018-08-20T11:08:58.165Z - info: 只有预制节点 "Enemy1" 及其子节点会被保存。
+2018-08-20T11:08:58.435Z - info: 只有预制节点 "Enemy1" 及其子节点会被保存。
+2018-08-20T11:09:16.713Z - info: 只有预制节点 "Enemy1" 及其子节点会被保存。
+2018-08-20T11:09:17.942Z - info: 只有预制节点 "Enemy1" 及其子节点会被保存。
+2018-08-20T11:09:18.209Z - info: 只有预制节点 "Enemy1" 及其子节点会被保存。
+2018-08-20T11:09:18.458Z - info: 只有预制节点 "Enemy1" 及其子节点会被保存。
+2018-08-20T11:09:41.110Z - info: 只有预制节点 "Enemy1" 及其子节点会被保存。
+2018-08-20T11:09:41.355Z - info: 只有预制节点 "Enemy1" 及其子节点会被保存。
+2018-08-20T11:09:42.146Z - info: 只有预制节点 "Enemy1" 及其子节点会被保存。
+2018-08-20T11:09:43.026Z - info: 只有预制节点 "Enemy1" 及其子节点会被保存。
+2018-08-20T11:10:48.928Z - info: 只有预制节点 "Enemy_2" 及其子节点会被保存。
+2018-08-20T11:10:55.779Z - info: 只有预制节点 "Enemy_2" 及其子节点会被保存。
+2018-08-20T11:11:06.266Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:8870
+2018-08-20T11:13:46.681Z - info: 只有预制节点 "Enemy_2" 及其子节点会被保存。
+2018-08-20T11:13:46.964Z - info: 只有预制节点 "Enemy_2" 及其子节点会被保存。
+2018-08-20T11:17:06.378Z - info: 只有预制节点 "Enemy_2" 及其子节点会被保存。
+2018-08-20T11:18:57.594Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\undo\index.js:1:6632)
+    at Object.pasteNodes (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\scene.js:1:2918)
+    at HTMLElement.paste-nodes (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.js:1:2585)
+    at Object.e._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-08-20T11:20:16.400Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:20572
+2018-08-20T11:23:10.872Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:23092
+2018-08-20T11:23:58.520Z - error: animation not added or already removed
+    at Object.cc.errorID (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:177:16)
+    at AnimationAnimator.p.removeAnimation (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-animator.js:72:20)
+    at AnimationState.proto.onStop (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-state.js:107:31)
+    at AnimationState.prototype.stop (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\playable.js:52:22)
+    at AnimationState.process [as _process] (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-state.js:145:22)
+    at AnimationState.proto.update (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-state.js:189:18)
+    at CCClass.update (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\animation\animation-manager.js:28:30)
+    at cc.Scheduler.update (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCScheduler.js:262:38)
+    at cc.Director.mainLoop.CC_EDITOR._purgeDirectorInNextLoop [as mainLoop] (D:\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDirector.js:435:41)
+2018-08-20T11:25:38.365Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:25719
+2018-08-20T11:25:38.367Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:25720
+2018-08-20T11:27:10.409Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:26763
+2018-08-20T11:27:10.410Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:26765
+2018-08-20T11:30:10.397Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:28875
+2018-08-20T11:34:35.382Z - normal: connected!

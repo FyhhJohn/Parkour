@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "player_fall",
+    "texture": "f268637c-93b0-4b9d-8e0d-07bc95f850e6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      176,
+      274
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      176,
+      274
+    ]
+  }
+}

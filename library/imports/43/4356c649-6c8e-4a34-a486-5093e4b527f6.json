@@ -1,0 +1,105 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "Group",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Group",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_tag": -1,
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 720,
+      "height": 0
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "4550ayOGaRA273dBJc69eDA",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "enemyPrefabs": [
+      {
+        "__uuid__": "976dcfdb-b748-42bc-b70c-650b1c0130f4"
+      },
+      {
+        "__uuid__": "a26c8cac-ba47-41e7-bea4-a0eab2f0dbb2"
+      },
+      {
+        "__uuid__": "1cf11036-3d87-40fa-9df3-085b05f856e7"
+      },
+      {
+        "__uuid__": "1c3a6598-080c-4a1f-9f8c-6befd1317bce"
+      },
+      {
+        "__uuid__": "5c59c5fe-dc00-42d2-b3bd-ea2556546dbe"
+      }
+    ],
+    "dotPrefab": {
+      "__uuid__": "28a400c4-f371-4a43-b0f9-2bc5667e1a5b"
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "4356c649-6c8e-4a34-a486-5093e4b527f6"
+    },
+    "fileId": "dceQk+piRAzb4845M7fG9F",
+    "sync": false
+  }
+]
